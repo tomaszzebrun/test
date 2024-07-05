@@ -1,4 +1,4 @@
 def demo_function():
     print("I am inside of a function!")
-print("dupa")
+print("dupa dupa")
 demo_function()
